@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\START Pack\Scripts\ActionMaster2.cs" />
      <Compile Include="Assets\START Pack\Scripts\OurScoreDisplayTest1.cs" />
+     <Compile Include="Assets\Scripts\Ball.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
