@@ -23,7 +23,7 @@ public class Ball : MonoBehaviour {
     // Launch the bowling ball
     public void LaunchBall()
     {
-        rigidBody.velocity = new Vector3(0, 0, launchSpeed);
+        rigidBody.velocity = new Vector3(0f, 0, launchSpeed);
         audioSource.Play();
     }
 }
